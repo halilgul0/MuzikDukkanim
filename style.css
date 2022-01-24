@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: #EFDAD7;
+    color: #1572A1;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.marka{
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 45px;
+}
+.menu ul li {
+    text-align: center;
+    list-style: none;
+    display: inline;
+    text-decoration: none;
+}
+.menu ul li a{
+    text-decoration: none; 
+}
+.menu ul li a:hover{
+    color: #357494;
+}
+
+.icerik ul li {
+    text-align: center;
+    list-style: none;
+    display: inline;
+    text-decoration: none;
+    width: 400px;
+    height: 400px;
+}
